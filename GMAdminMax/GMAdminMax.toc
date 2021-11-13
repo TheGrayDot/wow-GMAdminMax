@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: GMAdminMax
+## Notes: Game Master Admin Tools
+## Author: Thomas Laurenson
+## DefaultState: enabled
+
+TeleportData.lua
+TeleportDropDown.lua
+BestInSlotData.lua
+BestInSlotDropDown.lua
+GMAdminMax.lua
