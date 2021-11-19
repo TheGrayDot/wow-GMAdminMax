@@ -20,13 +20,17 @@ The GMAdminMax addon currently has the following functionality:
 - Clone this repo, or download as ZIP
 - Copy the `GMAdminMax` folder
 - Paste the folder in the `Interfaces\Addons` folder
+- Run `/gm` or `/admin` to show or hide the addon
+
+## Example
+
+![GMAdminMax Screenshot 1](resources/screenshot_1.png)
 
 ## Roadmap
 
-- Add slash command to open/close the addon
 - Add repair items button
 - Add cast enchant spell on selected item
-- Add in item dungeon item sets to BiS lists
+- Add in item dungeon item sets (Dunegon set 1/2) to BiS lists
 - Add option to give item sets to targeted player
 - Add in buffs (world, food, potion, flask) menu
 - Add in spawn common items needed on newly created characters

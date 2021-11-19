@@ -8,4 +8,5 @@ TeleportData.lua
 TeleportDropDown.lua
 BestInSlotData.lua
 BestInSlotDropDown.lua
+GMAdminMaxFrame.lua
 GMAdminMax.lua
